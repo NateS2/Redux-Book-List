@@ -23,3 +23,6 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+
+## Redux Book list
+Code was created while following Stephen Grider's course on React. 
